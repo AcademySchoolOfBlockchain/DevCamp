@@ -1,0 +1,32 @@
+{
+  "name": "js-project-mock",
+  "version": "1.0.0",
+  "description": "This is a mock-up of the practical project for the Blockchain-Devcamp @Softuni.",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha",
+    "deploy": "nodemon main.js"
+  },
+  "keywords": [
+    "mockup",
+    "project",
+    "practical",
+    "node",
+    "raw",
+    "json",
+    "dummy",
+    "softuni",
+    "blockchain",
+    "devcamp"
+  ],
+  "author": "Georgi Angelov",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "json-parser": "^1.1.5",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.17.5"
+  }
+}

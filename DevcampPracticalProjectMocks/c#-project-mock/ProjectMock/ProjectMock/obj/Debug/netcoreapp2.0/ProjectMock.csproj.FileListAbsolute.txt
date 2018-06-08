@@ -1,0 +1,11 @@
+C:\Users\G_ANGELOV\Desktop\Softuni\Blockchain\c#-project-mock\ProjectMock\ProjectMock\bin\Debug\netcoreapp2.0\ProjectMock.deps.json
+C:\Users\G_ANGELOV\Desktop\Softuni\Blockchain\c#-project-mock\ProjectMock\ProjectMock\bin\Debug\netcoreapp2.0\ProjectMock.runtimeconfig.json
+C:\Users\G_ANGELOV\Desktop\Softuni\Blockchain\c#-project-mock\ProjectMock\ProjectMock\bin\Debug\netcoreapp2.0\ProjectMock.runtimeconfig.dev.json
+C:\Users\G_ANGELOV\Desktop\Softuni\Blockchain\c#-project-mock\ProjectMock\ProjectMock\bin\Debug\netcoreapp2.0\ProjectMock.dll
+C:\Users\G_ANGELOV\Desktop\Softuni\Blockchain\c#-project-mock\ProjectMock\ProjectMock\obj\Debug\netcoreapp2.0\ProjectMock.csprojAssemblyReference.cache
+C:\Users\G_ANGELOV\Desktop\Softuni\Blockchain\c#-project-mock\ProjectMock\ProjectMock\obj\Debug\netcoreapp2.0\ProjectMock.csproj.CoreCompileInputs.cache
+C:\Users\G_ANGELOV\Desktop\Softuni\Blockchain\c#-project-mock\ProjectMock\ProjectMock\obj\Debug\netcoreapp2.0\ProjectMock.AssemblyInfoInputs.cache
+C:\Users\G_ANGELOV\Desktop\Softuni\Blockchain\c#-project-mock\ProjectMock\ProjectMock\obj\Debug\netcoreapp2.0\ProjectMock.AssemblyInfo.cs
+C:\Users\G_ANGELOV\Desktop\Softuni\Blockchain\c#-project-mock\ProjectMock\ProjectMock\bin\Debug\netcoreapp2.0\ProjectMock.pdb
+C:\Users\G_ANGELOV\Desktop\Softuni\Blockchain\c#-project-mock\ProjectMock\ProjectMock\obj\Debug\netcoreapp2.0\ProjectMock.dll
+C:\Users\G_ANGELOV\Desktop\Softuni\Blockchain\c#-project-mock\ProjectMock\ProjectMock\obj\Debug\netcoreapp2.0\ProjectMock.pdb

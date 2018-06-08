@@ -1,0 +1,25 @@
+{
+    "index": 0,
+    "transactions": [{
+        "from": "f3a1e69b6176052fcc4a3248f1c5a91dea308ca9",
+        "to": "1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2",
+        "value": 1000000000000,
+        "fee": 0,
+        "dateCreated": "2018-01-01T00:00:00.000Z",
+        "data": "Money, money, more money",
+        "senderPubKey": "1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2",
+        "transactionDataHash": "8a684cb8491ee419e7d46a0fd24…ecc2",
+        "senderSignature": ["009eb819743dc981250daaaab0ad51e37ba47f7fb4ace61f6a69111850d6f29905",
+            "6b6e59e1c002a4e35ba2be4d00366ea0f3e0b14c829907920705bce336ab2945"
+        ],
+        "minedInBlockIndex": 0,
+        "transferSuccessful": true
+    }],
+    "difficulty": 4,
+    "prevBlockHash": "14B2CE63CA9BFF5DD028E657617C8E492E979C777A0899D090CCA1204B44AEDC",
+    "minedBy": "2578FDF7282AC05188D716CCA5AB1C2709D1836A5D06004C541A05CFFE9C1688",
+    "blockDataHash": "558AD18828F6DA6D471CDB1A3443F039A770E03617F163896980D914D643E4BC",
+    "nonce": 2455432,
+    "dateCreated": "2018-02-01T22:58:23.129Z",
+    "blockHash": "C3F6F2627D54ACFBE7DCAF86B3FF3EEB29333F40CE2D4E7B5F3BDF9DCECF740B"
+}

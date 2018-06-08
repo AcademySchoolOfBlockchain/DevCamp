@@ -1,0 +1,35 @@
+{
+    "index": 3,
+    "transactions": [{
+        "from": "0000000000000000000000000000000000000000",
+        "to": ":minerAddress",
+        "value": 5000010,
+        "fee": 0,
+        "dateCreated": "2018-06-06T12:08:15.772Z",
+        "data": "coinbase tx",
+        "senderPubKey": "00000000000000000000000000000000000000000000000000000000000000000",
+        "transactionDataHash": "867082a9abed380fcb3b3d34ef303aa4ef3e794d27179dd32771ffbeb6a3dc16",
+        "senderSignature": ["0000000000000000000000000000000000000000000000000000000000000000", "0000000000000000000000000000000000000000000000000000000000000000"],
+        "minedInBlockIndex": 3,
+        "transferSuccessful": true
+    }, {
+        "from": "f3a1e69b6176052fcc4a3248f1c5a91dea308ca9",
+        "to": "a1de0763f26176c6d68cc77e0a1c2c42045f2314",
+        "value": 400000,
+        "fee": 10,
+        "dateCreated": "2018-06-06T11:49:31.983Z",
+        "data": "Faucet -> Alice (again)",
+        "senderPubKey": "8c4431db61e9095d5794ff53a3ae4171c766cadef015f2e11bec22b98a80f74a0",
+        "transactionDataHash": "5e02725b07e746d769f8a67a0de5989baac945ec75d711879d50eebcb484b5f0",
+        "senderSignature": ["2e4bce3f3ff53cf55f1425f110b46cf6ca1f4d58b53a8185703ff7db4a3fd18d", "d7b3f98ce8c9c350065e72425faaaa7399b4a74c862fc684a5023038ab0e045c"],
+        "minedInBlockIndex": 3,
+        "transferSuccessful": true
+    }],
+    "difficulty": 3,
+    "prevBlockHash": "000cc4888846058b71293faf0d96491b98f01dcb211702fabb93976967984557",
+    "minedBy": ":minerAddress",
+    "blockDataHash": "6d5793ba24ade2dd78ce009eff6d37b573d0bd37a33d1eb1e61c2b324c844c7c",
+    "nonce": 233,
+    "dateCreated": "2018-06-06T12:08:15.776Z",
+    "blockHash": "0004f28fe04e30dd6d55d7cd5fc73d3ecaac08175d8575483aa8da624810cc39"
+}

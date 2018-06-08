@@ -1,0 +1,12 @@
+{
+    "about": "SoftUniChain/0.9-javascript",
+    "nodeId": "8349A4FA193B37FABA2153FC0F973486AB0A3BD673942AA29BB315EA2FEB850F",
+    "chainId": "39C21E25756BD68B756F5C20259D708F0B055D45BC02F6F73609C034A9570CDC",
+    "nodeUrl": "http://localhost:5555",
+    "peers": 2,
+    "currentDifficulty": 6,
+    "blocksCount": 25,
+    "cumulativeDifficulty": 127,
+    "confirmedTransactions": 208,
+    "pendingTransactions": 10
+}

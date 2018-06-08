@@ -1,0 +1,126 @@
+{
+    "selfUrl": "http://localhost:5555",
+    "peers": {
+        "162269f6993d2b5440dddcd6": "http://localhost:5556",
+        "162266dff5753a87a3e72403": "http://af6c7a.ngrok.org:5555"
+    },
+    "chain": {
+        "blocks": [{
+                "index": 0,
+                "transactions": [{
+                    "from": "0000000000000000000000000000000000000000",
+                    "to": "f3a1e69b6176052fcc4a3248f1c5a91dea308ca9",
+                    "value": 1000000000000,
+                    "fee": 0,
+                    "dateCreated": "2018-01-01T00:00:00.000Z",
+                    "data": "genesis tx",
+                    "senderPubKey": "0000000000000000000000000000000000000000",
+                    "transactionDataHash": "8a684cb8491ee419e7d46a0fd24…ecc2",
+                    "senderSignature": ["0000…00", "0000…00"],
+                    "minedInBlockIndex": 0,
+                    "transferSuccessful": true
+                }],
+                "difficulty": 0,
+                "prevBlockHash": "0000000000000000000000000000000000000000",
+                "minedBy": "0000000000000000000000000000000000000000",
+                "nonce": 0,
+                "blockDataHash": "481773D29552170E043683E2891FCF742014B568B6FF13594777C10C62158E55",
+                "dateCreated": "2018-01-06",
+                "blockHash": "AEEBAD4A796FCC2E15DC4C6061B45ED9B373F26ADFC798CA7D2D8CC58182718E"
+            },
+            {
+                "index": 1,
+                "transactions": [{
+                    "from": "0000000000000000000000000000000000000000",
+                    "to": "9a9f082f37270ff54c5ca4204a0e4da6951fe917",
+                    "value": 5000350,
+                    "fee": 0,
+                    "dateCreated": "2018-02-10T17:53:48.972Z",
+                    "data": "coinbase tx",
+                    "senderPubKey": "000000000000000000000000000000000000…0000",
+                    "transactionDataHash": "4dfc3e0ef89ed603ed54e47435a18b…176a",
+                    "senderSignature": ["0000000000…0000", "0000000000…0000"],
+                    "minedInBlockIndex": 35,
+                    "transferSuccessful": true
+                }, {
+                    "from": "f3a1e69b6176052fcc4a3248f1c5a91dea308ca9",
+                    "to": "1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2",
+                    "value": 1000000000000,
+                    "fee": 0,
+                    "dateCreated": "2018-01-01T00:00:00.000Z",
+                    "data": "Money, money, more money",
+                    "senderPubKey": "1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2",
+                    "transactionDataHash": "8a684cb8491ee419e7d46a0fd24…ecc2",
+                    "senderSignature": ["009eb819743dc981250daaaab0ad51e37ba47f7fb4ace61f6a69111850d6f29905",
+                        "6b6e59e1c002a4e35ba2be4d00366ea0f3e0b14c829907920705bce336ab2945"
+                    ],
+                    "minedInBlockIndex": 0,
+                    "transferSuccessful": true
+                }],
+                "difficulty": 0,
+                "prevBlockHash": "AEEBAD4A796FCC2E15DC4C6061B45ED9B373F26ADFC798CA7D2D8CC58182718E",
+                "minedBy": "8B133A3868993176B613738816247A7F4D357CAE555996519CF5B543E9B3554B",
+                "nonce": 51365222,
+                "blockDataHash": "5AD07CE69B3A5713399638B88437B356D6881B5A1B391CD7E1C73460DE08146A",
+                "dateCreated": "2018-01-07",
+                "blockHash": "4F7C1007CEAF084F4D06A00A01ABA07A10B168286A1B05E63E614D3873033CF2"
+            },
+            {
+                "index": 2,
+                "transactions": [{
+                    "from": "0000000000000000000000000000000000000000",
+                    "to": "9a9f082f37270ff54c5ca4204a0e4da6951fe917",
+                    "value": 5000350,
+                    "fee": 0,
+                    "dateCreated": "2018-02-10T17:53:48.972Z",
+                    "data": "coinbase tx",
+                    "senderPubKey": "000000000000000000000000000000000000…0000",
+                    "transactionDataHash": "4dfc3e0ef89ed603ed54e47435a18b…176a",
+                    "senderSignature": ["0000000000…0000", "0000000000…0000"],
+                    "minedInBlockIndex": 35,
+                    "transferSuccessful": true
+                }],
+                "difficulty": 0,
+                "prevBlockHash": "d9…9c",
+                "minedBy": "af…b2",
+                "nonce": 0,
+                "blockDataHash": "ECF0299B09B3B9C685B9765BDAC5731982CE0E0CBDEC2B738C4B0EA730084D76",
+                "dateCreated": "2018-01-09",
+                "blockHash": "D63561421AB074274ED59A01CFBD037955950031C55E529C34896E04C4A2FF60"
+            }
+        ],
+        "pendingTransactions": [{
+            "from": "f3a1e69b6176052fcc4a3248f1c5a91dea308ca9",
+            "to": "1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2",
+            "value": 1000000000000,
+            "fee": 0,
+            "dateCreated": "2018-01-01T00:00:00.000Z",
+            "data": "Money, money, more money",
+            "senderPubKey": "1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2",
+            "transactionDataHash": "8a684cb8491ee419e7d46a0fd24…ecc2",
+            "senderSignature": ["009eb819743dc981250daaaab0ad51e37ba47f7fb4ace61f6a69111850d6f29905",
+                "6b6e59e1c002a4e35ba2be4d00366ea0f3e0b14c829907920705bce336ab2945"
+            ],
+            "minedInBlockIndex": 0,
+            "transferSuccessful": true
+        }],
+        "currentDifficulty": 5,
+        "miningJobs": {
+            "index": 50,
+            "transactionsIncluded": 17,
+            "difficulty": 5,
+            "expectedReward": 5000350,
+            "rewardAddress": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+            "blockDataHash": "5EF0748C6C8C0FF3385C0FBD7B1B548EEB9D9DA05DFE954A34EFA4FDED226346"
+        }
+
+    },
+    "confirmedBalances": {
+        "0000000000000000000000000000000000000000": -1000340000110,
+        "f3a1e69b6176052fcc4a3248f1c5a91dea308ca9": 999998382585,
+        "84ede81c58f5c490fc6e1a3035789eef897b5b35": 340000110,
+        "a1de0763f26176c6d68cc77e0a1c2c42045f2314": 894961,
+        "b3d72ad831b3e9cdbdaeda5ff4ae8e9cf182e548": 709999,
+        "a2de0763f26176c6d68cc77e0a1c2c42045f2314": 12345
+    }
+}
